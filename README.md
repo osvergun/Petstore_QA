@@ -1,7 +1,7 @@
 # API Tests for the Petstore!
 
 ### Setup
-1. Clone this repository `git clone git@github.com:osvergun/Petstore_api.git`
+1. Clone this repository `gh repo clone osvergun/Petstore_QA`
 2. Inside project folder execute `npm install`
 
 ### Run tests
