@@ -24,7 +24,7 @@ Unfortunately Petstore service contains a few bugs that can affect the stability
 - There is no validation for petId, so newly created pets are not properly saved if a pet with this id already exists. There is also no validation error that could refer to that.
 - Get pet endpoint returns different responses from time to time
 
-### List of potentials tests to be added (if Petstore issue are fixed):
+### List of potentials tests to be added (Petstore issues should fixed):
 - Not possible to add record with the same id
 - Mot possible to add record with incorrect/missing request body
 - Not possible to add records with empty required field
